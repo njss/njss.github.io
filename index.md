@@ -36,7 +36,7 @@ Data Visualization (d3, WebGL, OpenGL, Tableau)
 C# and Java
 Eye Tracking
 and
-Many Others
+Many Others 
 
 ## Summary
 
@@ -64,4 +64,7 @@ __Technical University of Graz__
 
 ### Sixth Sense
 ### and
-### Many, many, many others
+### Many, many, many others (see: <i class="fa fa-linkedin"></i> <a href="https://at.linkedin.com/in/nelsonjesussilveriosilva">LinkedIn</a>)
+
+## <i class="fa fa-linkedin"></i> <a href="https://view.attach.io/Vy1tDRsIx">Monitored LinkedIn CV</a>
+
