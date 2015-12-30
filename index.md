@@ -65,4 +65,6 @@ __Technical University of Graz__
 ### Sixth Sense and Many, many, many others (see: <i class="fa fa-linkedin"></i> <a href="https://at.linkedin.com/in/nelsonjesussilveriosilva">LinkedIn</a>)
 
 ## <i class="fa fa-linkedin"></i> <a href="https://view.attach.io/Vy1tDRsIx">Monitored LinkedIn CV</a>
+## <i class="fa fa-linkedin"></i> <a href="https://njss.github.io/myblog/index.html">My Github Blog</a>
+
 
