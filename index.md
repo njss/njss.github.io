@@ -1,91 +1,64 @@
 ---
 layout: cv
-title: Eliseo Papa's CV
+title: Nelson Silva's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Nelson Silva, Applied Researcher.
+
+<!-- <div id="webaddress">
+<a href="mailto:njssnjss@gmail.com">njssnjss@gmail.com</a>
+|
+<i class="fa fa-github"></i> <a href="http://github.com/njss">njss</a>
+|
+<i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/nelsonsilva">nelsonsilva</a>
+</div> -->
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page/a>
+<a href="mailto:njssnjss@gmail.com">njssnjss@gmail.com</a>
+|
+<i class="fa fa-github"></i> <a href="http://github.com/njss">Github</a>
+|
+<i class="fa fa-linkedin"></i> <a href="https://at.linkedin.com/in/nelsonjesussilveriosilva">LinkedIn</a>
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+Fraunhofer Austria Research GmbH, Austria
 
-### Specialized in
+### Currently Working with
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Web Development (Javascript, NodeJS, AngularJS)
+Faceted Search (elasticsearch)
+Data Visualization (d3, WebGL, OpenGL, Tableau)
+C# and Java
+Eye Tracking
+and
+Many Others
 
+## Summary
 
-### Research interests
+Coming from a long lasting C++, C# programming career mainly in VoIP, ERP, Manufacturing/Production, Data Visualization applications.
+My main focus now lies in the management, design and development of full-stack web applications with a passion for code maintainability and tooling.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+## Experience
 
+`November 2012 - Present`
+__Fraunhofer Austria Research GmbH | Graz, Austria__
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+  `2012 - ????`
+__Technical University of Graz__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- PhD, Computer Graphics
 
-- Sizar
+## Technical skills
 
-`1667 - 
-__Trinity College, Cambridge__
+* Web Development
+* Others
 
-- Fellow
+## Projects
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+### Sixth Sense
+### and
+### Many, many, many others
