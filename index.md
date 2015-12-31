@@ -11,6 +11,8 @@ title: Nelson Silva's CV
 <i class="fa fa-github"></i> <a href="http://github.com/njss">njss</a>
 |
 <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/nelsonsilva">nelsonsilva</a>
+|
+<i class="fa fa-linkedin"></i> <a href="https://njss.github.io/myblog.html">My Github Blog</a>
 </div> -->
 
 <div id="webaddress">
@@ -66,6 +68,6 @@ __Technical University of Graz__
 
 ## <i class="fa fa-linkedin"></i> <a href="https://view.attach.io/Vy1tDRsIx">Monitored LinkedIn CV</a>
 
-## <i class="fa fa-linkedin"></i> <a href="https://njss.github.io/myblog/index.html">My Github Blog</a>
+## <i class="fa fa-linkedin"></i> <a href="https://njss.github.io/myblog.html">My Github Blog</a>
 
 
