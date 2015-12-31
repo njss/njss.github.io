@@ -39,12 +39,12 @@ My main focus now lies in the management, design and development of full-stack w
 
 ## Experience
 
-`November 2012 - Present`
+__`November 2012 - Present`__
 __Fraunhofer Austria Research GmbH | Graz, Austria__
 
 ## Education
 
-  `2012 - ????`
+ __`2012 - ????`__
 __Technical University of Graz__
 
 - PhD, Computer Graphics
