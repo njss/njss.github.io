@@ -5,5 +5,7 @@ A curriculum vitae maintained in plain text and rendered to html and pdf using C
 
 For more details see the [project page](http://elipapa.github.io/markdown-cv).
 
-ORCID
+# MY ORCID Profile:
+## http://orcid.org/0000-0002-4994-0963
+
 <img src="/my_orcid_qrcode.png" width="358" height="532">
